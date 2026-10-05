@@ -39,9 +39,8 @@ Certifica-te de que tens o [Python 3](https://www.python.org/) instalado no teu 
 
 3. **Executa o ficheiro:**
    ```bash
-   python main.py
+   python calculadora.py
    ```
-   *(Nota: Se o teu ficheiro tiver outro nome, substitui `main.py` pelo nome correto).*
 
 ---
 
