@@ -1,4 +1,4 @@
-# 🧮 Calculadora Simples em Python
+🧮 Calculadora Simples em Python
 
 Uma calculadora de terminal simples e interativa desenvolvida em Python. Este é o meu primeiro projeto no GitHub! 🚀
 
